@@ -466,8 +466,7 @@ public class Configuration {
 	}
 
 	public MetaObject newMetaObject(Object object) {
-		return MetaObject
-				.forObject(object, objectFactory, objectWrapperFactory);
+		return MetaObject.forObject(object, objectFactory, objectWrapperFactory);
 	}
 
 	public ParameterHandler newParameterHandler(

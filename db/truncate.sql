@@ -18,18 +18,4 @@ truncate table shop_preorder_item_attribute;
 truncate table shop_product;
 truncate table shop_product_attribute;
 truncate table sys_log;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
-truncate table ;
 
